@@ -1,1 +1,3 @@
 This is in the master branch
+
+First commit in the new branch
